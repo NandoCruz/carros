@@ -3,6 +3,8 @@
 
 Este é um projeto criativo com HTML, CSS e JavaScript realizado em uma aula do YouTube da DevClub com Rodolfo Mori, onde o site é voltado para o ramo de carros com animações.
 
+![TelaCarros](https://github.com/NandoCruz/carros/blob/main/imagens/Tela-carros.png)
+
 ![AssinaturaOnLine](https://user-images.githubusercontent.com/47435625/133949021-a75e5344-9b28-494d-8b81-5386e1958eee.png)
 
 ## Siga-me nas redes sociais
